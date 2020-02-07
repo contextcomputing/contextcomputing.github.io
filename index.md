@@ -1,5 +1,4 @@
-# Context Computing ![Context Computing Logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Context Computing")
-
+# Context Computing ![Image of Ring Signature](https://upload.wikimedia.org/wikipedia/commons/3/34/Ring-signature.svg =100x)
 
 - [Heading](#heading-1)
   * [Sub-heading](#sub-heading-1)
