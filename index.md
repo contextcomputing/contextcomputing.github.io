@@ -1,9 +1,9 @@
-# Context Computing
+# Context Computing™
 
-## What It Is
+## H2
 
-[Actual Cloud](https://en.wikipedia.org/wiki/Homomorphic_encryption)
+[Homomorphic encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption)
 
-## Who Dunnit
+## H2
 
-I dunnit okay
+text
