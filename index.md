@@ -1,4 +1,5 @@
-# Context Computing
+# Context Computing ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 
 - [Heading](#heading-1)
   * [Sub-heading](#sub-heading-1)
