@@ -7,3 +7,6 @@
 ## H2
 
 text
+
+### H3
+"Context Computing" is a trademark (™) of Context Computing Inc.
