@@ -43,6 +43,6 @@ Pinterest: contextcomp
 
 Tumblr: contextcomputing
 
-### Fine Print
+## Fine Print
 
 "Context Computing" is a trademark (™) of Context Computing Inc.
