@@ -1,5 +1,5 @@
 # Context Computing
 
-[Contact](contact)
+[\[ CONTACT \]](contact)
 
 "Context Computing" is a trademark (™) of Context Computing Inc.
