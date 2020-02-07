@@ -1,6 +1,3 @@
----
-title: Context Computing
----
 # Context Computing
 
 ## H2
