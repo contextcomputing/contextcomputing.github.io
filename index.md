@@ -1,4 +1,6 @@
-# Context Computing ![Image of Ring Signature](https://upload.wikimedia.org/wikipedia/commons/3/34/Ring-signature.svg =100x)
+# Context Computing
+
+![Image of Ring Signature](https://upload.wikimedia.org/wikipedia/commons/3/34/Ring-signature.svg)
 
 - [Heading](#heading-1)
   * [Sub-heading](#sub-heading-1)
