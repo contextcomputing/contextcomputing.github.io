@@ -25,4 +25,6 @@ Pinterest: contextcomp
 
 Tumblr: contextcomputing
 
+---
+
 "Context Computing" is a trademark (™) of Context Computing Inc.
